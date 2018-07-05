@@ -1,0 +1,15 @@
+CREATE TABLE PERSON1(
+Number int,
+Gender varchar(225),
+FirstName varchar(225),	
+MiddleName varchar(225),
+Surname varchar(225),
+StreetAddress varchar(225),
+City varchar(225),
+ZipCode int,
+EmailAddress varchar(225),	
+TelephoneNumber varchar(225),
+Age int,
+BloodType varchar(225),	
+Weight_kg int,
+Height_cm int);
